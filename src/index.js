@@ -6,7 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import CartHeader from './CartHeader.js';
 import CartFooter from './CartFooter.js';
-import CartItems from './CartItems.js';
+// import CartItems from './CartItems.js';
 
 
 
